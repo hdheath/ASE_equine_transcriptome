@@ -1,0 +1,13 @@
+import os
+import subprocess
+import pandas as pd
+import glob 
+from scipy import stats
+from scipy.stats import binomtest
+import numpy as np
+import statsmodels.stats.multitest as smm
+import plotly.express as px
+import matplotlib.pyplot as plt 
+# samtools 
+# snpeff 
+# java 
