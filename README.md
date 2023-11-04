@@ -5,3 +5,16 @@ Allele-specific expression (ASE) analysis provides a deep, nuanced view of cis-r
 
 ## Link to full paper rough draft :
 https://docs.google.com/document/d/1bIT8mIiOfc_t8gAilALZ70YYFPR4FuAD_sdaoaNKcu8/edit?usp=sharing
+
+## Data Flow
+
+![Most Published Antibodies](https://imgur.com/ZRWsjWn.png)
+
+## Data Visualized
+![Most Published Antibodies](https://imgur.com/kPFwtBL.png)
+![Most Published Antibodies](https://imgur.com/PUyqssS.png)
+![Most Published Antibodies](https://imgur.com/xKc4js9.png)
+![Most Published Antibodies](https://imgur.com/VYdi0iZ.png)
+
+## Author
+Harrison Heath 
